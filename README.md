@@ -8,6 +8,7 @@
 <a href="Lucas Roveri's Stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-V-Roveri&theme=tokyonight"/></a>
 
 <div style="display: inline_block"><br>
+  
 ### *Languages:*
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,py,bash,cpp)](https://skillicons.dev)
