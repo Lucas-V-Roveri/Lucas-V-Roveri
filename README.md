@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning and improving my WebDevelopment skills
 - 💬 Reach me by email or LinkedIn!: Lucas.vilela2019@outlook.com | https://www.linkedin.com/in/lucas-vilela-roveri-dev/
 
+<a href="Lucas Roveri's Stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-V-Roveri&theme=tokyonight"/></a>
+<a href="Lucas Roveri's Langs"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-V-Roveri&theme=tokyonight"/></a>
 
-  <a href="Lucas Roveri's Stats"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-V-Roveri&theme=tokyonight"/></a>
-
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
 #Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,py,bash,cpp)](https://skillicons.dev)
