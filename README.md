@@ -8,11 +8,6 @@ and I'm a Computer Science Student from Brazil!. Here's some information about m
 - Pentest.
 - Anime
 
-💬 Reach me out by:
-- E-mail: Lucas.vilela2019@outlook.com
-- LinkedIn: https://www.linkedin.com/in/lucas-vilela-roveri-dev/
-
-
 <a href="Lucas Roveri's Langs"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-V-Roveri&theme=tokyonight"/></a>
 <a href="Lucas Roveri's Stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-V-Roveri&theme=tokyonight"/></a>
 
@@ -29,3 +24,8 @@ and I'm a Computer Science Student from Brazil!. Here's some information about m
 ### *Frameworks*
 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
+
+
+💬 Reach me out by:
+- E-mail: Lucas.vilela2019@outlook.com
+- LinkedIn: https://www.linkedin.com/in/lucas-vilela-roveri-dev/
