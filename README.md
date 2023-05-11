@@ -5,8 +5,8 @@
 
 
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-V-Roveri)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Lucas-V-Roveri&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-V-Roveri&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #Languages:
 
