@@ -5,8 +5,8 @@ and I'm a Computer Science Student from Brazil!. Here's some information about m
 🌱 Interests:
 
 - Web development.
+- Low level programming.
 - Pentest.
-- Anime
 
 <a href="Lucas Roveri's Langs"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-V-Roveri&theme=tokyonight"/></a>
 <a href="Lucas Roveri's Stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-V-Roveri&theme=tokyonight"/></a>
@@ -15,15 +15,15 @@ and I'm a Computer Science Student from Brazil!. Here's some information about m
   
 ### *Languages:*
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,py,bash,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,py,dart,bash,cpp)](https://skillicons.dev)
 
 ### *Web & Databases:*
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,postgres,cassandra)](https://skillicons.dev)
 
 ### *Frameworks*
 
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,angular,flutter,react,bootstrap)](https://skillicons.dev)
 
 
 💬 Reach me out by:
